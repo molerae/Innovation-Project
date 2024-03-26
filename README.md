@@ -44,4 +44,5 @@ A number of essential materials are required to complete the project:
 
 ### How to do the maintenance of the wall ?
 
-@[youtube](8U8inEAfjAI)
+[Regardez ma vidéo sur YouTube](https://www.youtube.com/watch?v=8U8inEAfjAI)
+
