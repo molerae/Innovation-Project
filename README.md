@@ -41,3 +41,7 @@ A number of essential materials are required to complete the project:
 - To protect connections and ensure proper insulation -> heat-shrink tubing
 
 - To power LEDs safely -> transformer compatible
+
+### How to do the maintenance of the wall ?
+
+@[youtube](8U8inEAfjAI)
