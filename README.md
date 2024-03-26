@@ -25,11 +25,19 @@ Finally, lamps system are added to ensure the survival of the plants. The goal i
 ### List of Material
 
 A number of essential materials are required to complete the project:
-To ensure a robust electrical connection -> minimum 10-meter-long electrical wire with a 1.5 mm² cross-section
-For efficient energy management/power supply -> plugs and a 4-socket power strip
-For lighting -> G4 bulbs and 12V G4 sockets
-To automate the lighting cycle -> square mechanical programmer
-For easy manual control -> black switch 6A at 250V
-To ensure a neat layout -> cable ties in sufficient quantity (approx. 60)
-To protect connections and ensure proper insulation -> heat-shrink tubing
-To power LEDs safely -> transformer compatible
+
+- To ensure a robust electrical connection -> minimum 10-meter-long electrical wire with a 1.5 mm² cross-section 
+
+- For efficient energy management/power supply -> plugs and a 4-socket power strip 
+
+- For lighting -> G4 bulbs and 12V G4 sockets
+
+- To automate the lighting cycle -> square mechanical programmer
+
+- For easy manual control -> black switch 6A at 250V
+
+- To ensure a neat layout -> cable ties in sufficient quantity (approx. 60)
+
+- To protect connections and ensure proper insulation -> heat-shrink tubing
+
+- To power LEDs safely -> transformer compatible
